@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWithDSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/ControlStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/Datatypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/FirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/TypeCasting.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -122,6 +114,15 @@
       <option name="presentableId" value="Default" />
       <updated>1727439745609</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added a Basic package file">
+      <option name="closed" value="true" />
+      <created>1727445710699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727445710699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a Basic package file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a Basic package file" />
   </component>
 </project>
