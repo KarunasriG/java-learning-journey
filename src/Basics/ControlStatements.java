@@ -35,10 +35,10 @@ public class ControlStatements {
         char ch = 'A';
         switch (ch) {
             case 'A':
-                System.out.println("It\'s Capital Letter 'A' ");
+                System.out.println("It's Capital Letter 'A' ");
                 break;
             case 'a':
-                System.out.println("It\'s Small Letter 'a' ");
+                System.out.println("It's Small Letter 'a' ");
                 break;
             default:
                 System.out.println("Didn't match any");

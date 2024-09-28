@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file" />
+    <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/IsArmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/ControlStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/ControlStatements.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +33,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2meaxVruBNl8uZxxq6e3XB9zJ1M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,19 +47,28 @@
     "Application.ControlStatements.executor": "Run",
     "Application.Datatypes.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.Forloop.executor": "Run",
+    "Application.IsArmstrong.executor": "Run",
+    "Application.IsPrime.executor": "Run",
+    "Application.Overloading.executor": "Run",
+    "Application.Swap.executor": "Run",
     "Application.TypeCasting.executor": "Run",
+    "Application.VarArgs.executor": "Run",
+    "Application.Varargs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ControlStatements">
-    <configuration name="ControlStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.ControlStatements" />
+  <component name="RunManager" selected="Application.Overloading">
+    <configuration name="IsArmstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.IsArmstrong" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Datatypes" />
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.IsPrime" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.FirstProgram" />
+    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Overloading" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.TypeCasting" />
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Swap" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.VarArgs" />
+      <module name="JavaWithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,10 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ControlStatements" />
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.FirstProgram" />
-        <item itemvalue="Application.Datatypes" />
+        <item itemvalue="Application.Overloading" />
+        <item itemvalue="Application.VarArgs" />
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.IsArmstrong" />
+        <item itemvalue="Application.IsPrime" />
       </list>
     </recent_temporary>
   </component>
