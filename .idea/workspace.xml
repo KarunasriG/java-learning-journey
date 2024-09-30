@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/IsArmstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/ArrofObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/ArryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/Basic_Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/ColNoFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/MArryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/MD_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/ReverseArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics/ControlStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/ControlStatements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +43,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrays.executor": "Run",
+    "Application.ArraysD.ArrofObj.executor": "Run",
+    "Application.ArrofObj.executor": "Run",
+    "Application.ArryList.executor": "Run",
+    "Application.Basic_Arr.executor": "Run",
+    "Application.ColNoFixed.executor": "Run",
     "Application.ControlStatements.executor": "Run",
     "Application.Datatypes.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.Forloop.executor": "Run",
     "Application.IsArmstrong.executor": "Run",
     "Application.IsPrime.executor": "Run",
+    "Application.MArryList.executor": "Run",
+    "Application.MD_Array.executor": "Run",
     "Application.Overloading.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.TypeCasting.executor": "Run",
@@ -62,13 +69,13 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Overloading">
-    <configuration name="IsArmstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.IsArmstrong" />
+  <component name="RunManager" selected="Application.ReverseArr">
+    <configuration name="ArryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysD.ArryList" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="ArraysD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.IsPrime" />
+    <configuration name="ColNoFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysD.ColNoFixed" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="ArraysD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Overloading" />
+    <configuration name="MArryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysD.MArryList" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="ArraysD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Swap" />
+    <configuration name="MD_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysD.MD_Array" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="ArraysD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.VarArgs" />
+    <configuration name="ReverseArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysD.ReverseArr" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="ArraysD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Overloading" />
-        <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.Swap" />
-        <item itemvalue="Application.IsArmstrong" />
-        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="Application.ReverseArr" />
+        <item itemvalue="Application.MArryList" />
+        <item itemvalue="Application.ArryList" />
+        <item itemvalue="Application.ColNoFixed" />
+        <item itemvalue="Application.MD_Array" />
       </list>
     </recent_temporary>
   </component>
