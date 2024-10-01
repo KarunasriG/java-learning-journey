@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/ArrofObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/ArryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/Basic_Arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/ColNoFixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/MArryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/MD_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/ReverseArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/MaxofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysD/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/OderAgnosticBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/MaxWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/SearchinRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/SearchinStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +39,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2meaxVruBNl8uZxxq6e3XB9zJ1M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,16 +53,26 @@
     "Application.ArrofObj.executor": "Run",
     "Application.ArryList.executor": "Run",
     "Application.Basic_Arr.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
     "Application.ColNoFixed.executor": "Run",
     "Application.ControlStatements.executor": "Run",
     "Application.Datatypes.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.Forloop.executor": "Run",
     "Application.IsArmstrong.executor": "Run",
     "Application.IsPrime.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.MArryList.executor": "Run",
     "Application.MD_Array.executor": "Run",
+    "Application.MaxWealth.executor": "Run",
+    "Application.MaxofArray.executor": "Run",
+    "Application.OderAgnosticBS.executor": "Run",
     "Application.Overloading.executor": "Run",
+    "Application.ReverseArr.executor": "Run",
+    "Application.SearchIn2DArray.executor": "Run",
+    "Application.SearchinRange.executor": "Run",
+    "Application.SearchinStrings.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.VarArgs.executor": "Run",
@@ -69,13 +84,13 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseArr">
-    <configuration name="ArryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysD.ArryList" />
+  <component name="RunManager" selected="Application.OderAgnosticBS">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.BinarySearch" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysD.*" />
+          <option name="PATTERN" value="Searching.BinaryS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ColNoFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysD.ColNoFixed" />
+    <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.LinearS.EvenDigits" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysD.*" />
+          <option name="PATTERN" value="Searching.LinearS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MArryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysD.MArryList" />
+    <configuration name="MaxWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.LinearS.MaxWealth" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysD.*" />
+          <option name="PATTERN" value="Searching.LinearS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MD_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysD.MD_Array" />
+    <configuration name="OderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.OderAgnosticBS" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysD.*" />
+          <option name="PATTERN" value="Searching.BinaryS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysD.ReverseArr" />
+    <configuration name="SearchIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.LinearS.SearchIn2DArray" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysD.*" />
+          <option name="PATTERN" value="Searching.LinearS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArr" />
-        <item itemvalue="Application.MArryList" />
-        <item itemvalue="Application.ArryList" />
-        <item itemvalue="Application.ColNoFixed" />
-        <item itemvalue="Application.MD_Array" />
+        <item itemvalue="Application.OderAgnosticBS" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.MaxWealth" />
+        <item itemvalue="Application.EvenDigits" />
+        <item itemvalue="Application.SearchIn2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -179,5 +194,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a Basic package file" />
     <option name="LAST_COMMIT_MESSAGE" value="Added a Basic package file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArraysD/MaxofArray.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
