@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/MaxofArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysD/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/OderAgnosticBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/MaxWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/SearchIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/SearchinRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearS/SearchinStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/CalulateByTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/GreetingMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/LargestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/PalindromeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/RupeesToDollars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Areas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Lt1281_SumOfDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Until_0_MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Untill_0_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,33 +52,47 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Areas.executor": "Run",
+    "Application.Armstrong.executor": "Run",
     "Application.Arrays.executor": "Run",
     "Application.ArraysD.ArrofObj.executor": "Run",
     "Application.ArrofObj.executor": "Run",
     "Application.ArryList.executor": "Run",
     "Application.Basic_Arr.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.CalulateByTwoNum.executor": "Run",
     "Application.ColNoFixed.executor": "Run",
     "Application.ControlStatements.executor": "Run",
     "Application.Datatypes.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
+    "Application.Factors.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.Forloop.executor": "Run",
+    "Application.GreetingMsg.executor": "Run",
     "Application.IsArmstrong.executor": "Run",
     "Application.IsPrime.executor": "Run",
+    "Application.LargestNum.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.Lt1281_SumOfDiff.executor": "Run",
     "Application.MArryList.executor": "Run",
     "Application.MD_Array.executor": "Run",
     "Application.MaxWealth.executor": "Run",
     "Application.MaxofArray.executor": "Run",
     "Application.OderAgnosticBS.executor": "Run",
     "Application.Overloading.executor": "Run",
+    "Application.PalindromeOrNot.executor": "Run",
     "Application.ReverseArr.executor": "Run",
+    "Application.RupeesToDollars.executor": "Run",
     "Application.SearchIn2DArray.executor": "Run",
     "Application.SearchinRange.executor": "Run",
     "Application.SearchinStrings.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.TypeCasting.executor": "Run",
+    "Application.Until_0_MaxNum.executor": "Run",
+    "Application.Untill_0.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.Varargs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,13 +102,13 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OderAgnosticBS">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.BinarySearch" />
+  <component name="RunManager" selected="Application.Until_0_MaxNum">
+    <configuration name="Areas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Areas" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.BinaryS.*" />
+          <option name="PATTERN" value="Practice.ConditionLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.LinearS.EvenDigits" />
+    <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Factors" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.LinearS.*" />
+          <option name="PATTERN" value="Practice.ConditionLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.LinearS.MaxWealth" />
+    <configuration name="Lt1281_SumOfDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Lt1281_SumOfDiff" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.LinearS.*" />
+          <option name="PATTERN" value="Practice.ConditionLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.OderAgnosticBS" />
+    <configuration name="Until_0_MaxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Until_0_MaxNum" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.BinaryS.*" />
+          <option name="PATTERN" value="Practice.ConditionLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.LinearS.SearchIn2DArray" />
+    <configuration name="Untill_0_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Untill_0_Sum" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.LinearS.*" />
+          <option name="PATTERN" value="Practice.ConditionLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OderAgnosticBS" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.MaxWealth" />
-        <item itemvalue="Application.EvenDigits" />
-        <item itemvalue="Application.SearchIn2DArray" />
+        <item itemvalue="Application.Until_0_MaxNum" />
+        <item itemvalue="Application.Untill_0_Sum" />
+        <item itemvalue="Application.Factors" />
+        <item itemvalue="Application.Lt1281_SumOfDiff" />
+        <item itemvalue="Application.Areas" />
       </list>
     </recent_temporary>
   </component>
