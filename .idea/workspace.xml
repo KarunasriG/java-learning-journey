@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Bubble_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Selection_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
     "Application.SearchIn2DArray.executor": "Run",
     "Application.SearchinRange.executor": "Run",
     "Application.SearchinStrings.executor": "Run",
+    "Application.Selection_sort.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.TypeCasting.executor": "Run",
@@ -90,7 +90,7 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bubble_Sort">
+  <component name="RunManager" selected="Application.Selection_sort">
     <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort" />
       <module name="JavaWithDSA" />
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lt1281_SumOfDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Lt1281_SumOfDiff" />
+    <configuration name="Selection_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.Selection_sort" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.ConditionLoops.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Selection_sort" />
         <item itemvalue="Application.Bubble_Sort" />
         <item itemvalue="Application.Until_0_MaxNum" />
         <item itemvalue="Application.Untill_0_Sum" />
         <item itemvalue="Application.Factors" />
-        <item itemvalue="Application.Lt1281_SumOfDiff" />
       </list>
     </recent_temporary>
   </component>
