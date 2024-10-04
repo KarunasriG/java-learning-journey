@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/CalulateByTwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/GreetingMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/LargestNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/PalindromeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/RupeesToDollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicPrograms/SimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Areas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Lt1281_SumOfDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Until_0_MaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ConditionLoops/Untill_0_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Bubble_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +47,7 @@
     "Application.ArryList.executor": "Run",
     "Application.Basic_Arr.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.Bubble_Sort.executor": "Debug",
     "Application.CalulateByTwoNum.executor": "Run",
     "Application.ColNoFixed.executor": "Run",
     "Application.ControlStatements.executor": "Run",
@@ -102,13 +90,13 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Until_0_MaxNum">
-    <configuration name="Areas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Areas" />
+  <component name="RunManager" selected="Application.Bubble_Sort">
+    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.ConditionLoops.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_Sort" />
         <item itemvalue="Application.Until_0_MaxNum" />
         <item itemvalue="Application.Untill_0_Sum" />
         <item itemvalue="Application.Factors" />
         <item itemvalue="Application.Lt1281_SumOfDiff" />
-        <item itemvalue="Application.Areas" />
       </list>
     </recent_temporary>
   </component>
