@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Selection_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Functions/all_functions_problems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Application.Lt1281_SumOfDiff.executor": "Run",
     "Application.MArryList.executor": "Run",
     "Application.MD_Array.executor": "Run",
+    "Application.MaxNum.executor": "Run",
     "Application.MaxWealth.executor": "Run",
     "Application.MaxofArray.executor": "Run",
     "Application.OderAgnosticBS.executor": "Run",
@@ -83,33 +85,26 @@
     "Application.Untill_0.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.Varargs.executor": "Run",
+    "Application.all_functions_problems.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "java.suggest.annotation.dependency": "false",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Selection_sort">
+  <component name="RunManager" selected="Application.all_functions_problems">
     <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Factors" />
-      <module name="JavaWithDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.ConditionLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,13 +151,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="all_functions_problems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Functions.all_functions_problems" />
+      <module name="JavaWithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.all_functions_problems" />
         <item itemvalue="Application.Selection_sort" />
         <item itemvalue="Application.Bubble_Sort" />
         <item itemvalue="Application.Until_0_MaxNum" />
         <item itemvalue="Application.Untill_0_Sum" />
-        <item itemvalue="Application.Factors" />
       </list>
     </recent_temporary>
   </component>
