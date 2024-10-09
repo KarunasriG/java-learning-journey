@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Functions/all_functions_problems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/small_char_ceiling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,7 @@
     "Application.BinarySearch.executor": "Run",
     "Application.Bubble_Sort.executor": "Debug",
     "Application.CalulateByTwoNum.executor": "Run",
+    "Application.Ceiling.executor": "Run",
     "Application.ColNoFixed.executor": "Run",
     "Application.ControlStatements.executor": "Run",
     "Application.Datatypes.executor": "Run",
@@ -57,6 +60,7 @@
     "Application.Factors.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.Floor.executor": "Run",
     "Application.Forloop.executor": "Run",
     "Application.GreetingMsg.executor": "Run",
     "Application.IsArmstrong.executor": "Run",
@@ -98,13 +102,26 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.all_functions_problems">
-    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort" />
+  <component name="RunManager" selected="Application.small_char_ceiling">
+    <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.Ceiling" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Searching.BinaryS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.Floor" />
+      <module name="JavaWithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching.BinaryS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,32 +142,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Until_0_MaxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Until_0_MaxNum" />
-      <module name="JavaWithDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.ConditionLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Untill_0_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ConditionLoops.Untill_0_Sum" />
-      <module name="JavaWithDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.ConditionLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="all_functions_problems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Functions.all_functions_problems" />
       <module name="JavaWithDSA" />
@@ -164,13 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="small_char_ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.small_char_ceiling" />
+      <module name="JavaWithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching.BinaryS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.small_char_ceiling" />
+        <item itemvalue="Application.Floor" />
+        <item itemvalue="Application.Ceiling" />
         <item itemvalue="Application.all_functions_problems" />
         <item itemvalue="Application.Selection_sort" />
-        <item itemvalue="Application.Bubble_Sort" />
-        <item itemvalue="Application.Until_0_MaxNum" />
-        <item itemvalue="Application.Untill_0_Sum" />
       </list>
     </recent_temporary>
   </component>
