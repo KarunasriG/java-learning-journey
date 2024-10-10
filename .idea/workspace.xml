@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9a6453-accf-434b-9a26-0f201fad2715" name="Changes" comment="Added a Basic package file">
-      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/BinaryS/small_char_ceiling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/BinaryS/find_ele_in_InfiniteSortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BinaryS/find_ele_in_InfiniteSortedArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +88,9 @@
     "Application.VarArgs.executor": "Run",
     "Application.Varargs.executor": "Run",
     "Application.all_functions_problems.executor": "Run",
+    "Application.find_ele_in_InfiniteSortedArr.executor": "Run",
+    "Application.first_last_occurence.executor": "Run",
+    "Application.small_char_ceiling.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -102,7 +103,7 @@
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/JWD"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.small_char_ceiling">
+  <component name="RunManager" selected="Application.find_ele_in_InfiniteSortedArr">
     <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.Ceiling" />
       <module name="JavaWithDSA" />
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.Selection_sort" />
+    <configuration name="find_ele_in_InfiniteSortedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.find_ele_in_InfiniteSortedArr" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Searching.BinaryS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="all_functions_problems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Functions.all_functions_problems" />
+    <configuration name="first_last_occurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinaryS.first_last_occurrence" />
       <module name="JavaWithDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.Functions.*" />
+          <option name="PATTERN" value="Searching.BinaryS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.find_ele_in_InfiniteSortedArr" />
+        <item itemvalue="Application.first_last_occurrence" />
         <item itemvalue="Application.small_char_ceiling" />
         <item itemvalue="Application.Floor" />
         <item itemvalue="Application.Ceiling" />
-        <item itemvalue="Application.all_functions_problems" />
-        <item itemvalue="Application.Selection_sort" />
       </list>
     </recent_temporary>
   </component>
